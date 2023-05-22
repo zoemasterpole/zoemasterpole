@@ -1,6 +1,6 @@
 # 👋 Hello, I’m @zoemasterpole!! 
 ## Things github has suggested I share:
-- 🌱 I’m currently learning Apex and all things relevant to a business analyst (my role!)
+- 🌱 I’m currently learning Apex
 - 📫 You can reach me @ zoemasterpole@gmail.com.
 
 <!---
