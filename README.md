@@ -1,7 +1,4 @@
-# 👋 Hello, I’m @zoemasterpole!! 
-## Things github has suggested I share:
-- 🌱 I’m currently learning Apex
-- 📫 You can reach me @ zoemasterpole@gmail.com.
+# 👋 Hello, I’m @zoemasterpole!!
 
 <!---
 zoemasterpole/zoemasterpole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
